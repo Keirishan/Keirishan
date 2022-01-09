@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Balachandran Keirishan
+- 👋 Hi, I’m @Keirishan Balachandran
 - 👀 I’m interested in Programming, Networking, Wireless Communication, Digital Electronics and Video Gaming 
 - 🌱 I’m currently learning Electronics and Telecommunication Engineering
 - 📫 How to reach me:- https://www.linkedin.com/in/balachandran-keirishan-6a5a66197/, +94770688841, keirishan86@gmail.com
