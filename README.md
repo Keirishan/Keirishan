@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Keirishan Balachandran
-- 👀 Interested Fields - Embedded System, Machine Learning and Robotics 
 - 🌱 I'm Currently Studying BSc(Hons) in Engineering in Electronics and Telecommunication Engineering at Sri Lanka Technological Campus.
+- 👀 Interested Fields - Embedded System, Machine Learning and Robotics 
 - 📫 How to reach me:- https://www.linkedin.com/in/balachandran-keirishan-6a5a66197/, +94770688841, keirishan86@gmail.com
 
 <!---
