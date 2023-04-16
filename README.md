@@ -16,6 +16,9 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Keirishan&theme=default&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Keirishan&theme=default&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Keirishan&theme=flat&no-frame=false&no-bg=false&margin-w=4)
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
@@ -29,8 +32,3 @@
 [![](https://visitcount.itsvg.in/api?id=Keirishan&icon=0&color=2)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-<!---
-Keirishan/Keirishan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
