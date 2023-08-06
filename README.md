@@ -1,5 +1,5 @@
 
-## Hello, 🙌 I'm [Keirishan Balachandran!](https://www.linkedin.com/in/balachandran-keirishan-6a5a66197/)
+## Hello, 🙌 I'm [Keirishan Balachandran!](https://keirishan.github.io/KeirishanBalachandran_OfficialWeb/)
 
 
 # 💫 About Me:
