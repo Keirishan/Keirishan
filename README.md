@@ -3,7 +3,7 @@
 
 
 # 💫 About Keirish:
-🔭 I’m currently involved in the Final Year Project of my undergraduate degree program related to Computer Vision & Deep Learning Based Assistant Systems for the Visually Impaired. Our main focus is making an intelligent system for the visually impaired to do their day-to-day work without depending on others.<br>🌱 I’m currently refreshing my knowledge of Embedded Systems, Object Oriented Programming in C++ and Python as well as some Machine Learning Algorithms.<br>👯 I’m looking to collaborate with Embedded Systems Developers.<br>📫 How to reach me keirishan86@gmail.com, +94770688841
+🔭 I completed my Bachelor's in Electronics and Telecommunication Engineering and am pursuing a Master's in Computer Science @ University of Moratuwa. My interests span Embedded Systems, Data Science, and Cloud Computing.<br>🌱 I'm actively enhancing my skills in Python, with a focus on Data Science, Machine Learning, and advanced programming concepts.<br>👯 I'm eager to collaborate on innovative projects in Data Science and backend development.<br>📫 How to reach me keirishan86@gmail.com, +94770688841
 
 
 ## 🌐 Socials:
