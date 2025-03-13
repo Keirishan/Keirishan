@@ -14,10 +14,6 @@
 
 - 📫 How to reach me **keirishan86@gmail.com**
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=keirishan&label=Profile%20views&color=0e75b6&style=flat" alt="keirishan" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=keirishan" alt="keirishan" /></a> </p>
-
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
@@ -40,6 +36,10 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=keirishan&show_icons=true&locale=en" alt="keirishan" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=keirishan&" alt="keirishan" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=keirishan" alt="keirishan" /></a> </p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=keirishan&label=Profile%20views&color=0e75b6&style=flat" alt="keirishan" /> </p>
 ---
 [![](https://visitcount.itsvg.in/api?id=Keirishan&icon=0&color=2)](https://visitcount.itsvg.in)
 
