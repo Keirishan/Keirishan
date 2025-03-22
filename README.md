@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **data science projects with like-minded professionals.**
 
-- 💬 Ask me about **Django, Flask, FastAPI**
+- 💬 Ask me about **Data Science, and Machine Learning**
 
 - 📫 How to reach me **keirishan86@gmail.com**
 
