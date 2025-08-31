@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Data Science, and Machine Learning**
 
-- 📫 How to reach me **keirishan86@gmail.com**
+- 📫 How to reach me **keirishanb@outlook.com**
 
 
 ### Blogs posts
