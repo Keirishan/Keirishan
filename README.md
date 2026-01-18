@@ -1,16 +1,14 @@
 
 <!-- ## Hello, 🙌 I'm [Keirishan Balachandran!](https://keirishan.github.io/KeirishanBalachandran_OfficialWeb/)-->
 <h1 align="center">Hi 👋, I'm 👉<a href="https://keirishan.github.io/KeirishanBalachandran_OfficialWeb/" target="_blank">KEIRISHAN (Keirish) BALACHANDRAN</a></h1>
-<h3 align="center">Passionate about Python, data engineering, and embedded systems.</h3>
+<h3 align="center">Passionate about Python, Data Engineering, and AI.</h3>
 
 
-- 🔭 I’m currently working on **python development**
+- 🔭 I’m currently working on **data engineering and AI-focused python projects**
 
-- 🌱 I’m currently learning **TensorFlow & PyTorch**
+- 👯 I’m looking to collaborate on **Data Science and AI projects with like-minded professionals**
 
-- 👯 I’m looking to collaborate on **data science projects with like-minded professionals.**
-
-- 💬 Ask me about **Data Science, and Machine Learning**
+- 💬 Ask me about **Data Science, ML and AI**
 
 - 📫 How to reach me **keirishanb@outlook.com**
 
