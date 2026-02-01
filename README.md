@@ -21,8 +21,8 @@
 <p align="left">
 <a href="https://linkedin.com/in/balachandran-keirishan-6a5a66197" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="balachandran-keirishan-6a5a66197" height="30" width="40" /></a>
 <a href="https://kaggle.com/keirishan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="keirishan" height="30" width="40" /></a>
-<a href="https://fb.com/keirishan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="keirishan" height="30" width="40" /></a>
-<a href="https://instagram.com/keirish_15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="keirish_15" height="30" width="40" /></a>
+<!-- <a href="https://fb.com/keirishan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="keirishan" height="30" width="40" /></a>
+<a href="https://instagram.com/keirish_15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="keirish_15" height="30" width="40" /></a> -->
 <a href="https://medium.com/@keirish15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@keirish15" height="30" width="40" /></a>
 </p>
 
